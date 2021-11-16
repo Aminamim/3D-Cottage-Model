@@ -1,0 +1,584 @@
+newmtl Sphere material 7_45331705-2720-4920-bd16-0b6a957f89b8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd index2.jpg
+newmtl Sphere material 15_5efa099a-4182-4bb4-8aad-d48fd822bdc6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd index2.jpg
+newmtl SquarePlane material 1_b635739f-fcb9-4b82-9b10-a340e69c58e3
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd thumb2-white-stone-texture-stone-background-white-stone-fence-masonry-texture.jpg
+newmtl SquarePlane material 7_3c713d90-8e1e-49f5-aba1-563aef7a0aaa
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 8_c57cb050-b968-4006-bc06-6144e1db75be
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 15_434aafe8-1eb5-4f5d-bc5d-5cefdb3ba47a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 16_f1404880-36ef-4b92-8a46-022f6814119c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 17_bb4799c8-795b-4ab0-af3f-a11323a4c0a5
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 18_c3465a6f-0ecd-4179-9765-665c80688819
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 19_1d75a00e-2add-467b-8d70-8b60fb001453
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 20_5037eba9-1058-4ba9-9c3f-c486da9ef85e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 9_223652c6-0827-400c-b118-a1cdb1316230
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 10_7abee611-25d0-4a6f-b580-00534bbcea60
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 11_20d4c922-598d-4914-8e96-884caede7cbb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 12_e6951e8e-6483-4454-a2a6-c5e5aff7bf74
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 13_d27cbe34-3137-4b8c-bc3d-e8b45b3ad011
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 14_8be238f2-2bfa-4ba9-911f-c75df81a44dc
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl SquarePlane material 2_da9fd037-a078-4b82-95aa-5b8af60b273f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd thumb2-white-stone-texture-stone-background-white-stone-fence-masonry-texture.jpg
+newmtl SquarePlane material 3_127f9e8f-3c26-41d6-b74a-38083b2bd579
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd thumb2-white-stone-texture-stone-background-white-stone-fence-masonry-texture.jpg
+newmtl SquarePlane material 4_4a8a3c2a-4b87-4351-94ff-a6c3f4af2f2e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd thumb2-white-stone-texture-stone-background-white-stone-fence-masonry-texture.jpg
+newmtl SquarePlane material 5_a1cf93a9-e161-4986-b2c9-b6f444ea1a38
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd thumb2-white-stone-texture-stone-background-white-stone-fence-masonry-texture.jpg
+newmtl SquarePlane material 6_33ee3e36-6def-4fa9-bd2d-b70eea1da2f2
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd thumb2-white-stone-texture-stone-background-white-stone-fence-masonry-texture.jpg
+newmtl Sphere material 1_baaf59bf-93cf-4ad2-871d-f2c6719859e2
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 69127115-bright-texture-from-natural-amethyst-violet-crystal-background-for-your-jewelry-designs-.jpg
+newmtl Sphere material 2_610cc9ac-d825-4d64-ba93-32cd9fd28b9f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd index1.jpg
+newmtl Sphere material 3_ea6ad014-71ab-4219-8c14-f3f695137961
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 125928-red-crystal-abstract-background.jpg
+newmtl Sphere material 8_e90ebae5-7a1e-4b94-b417-68714bdbde34
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 125928-red-crystal-abstract-background.jpg
+newmtl Sphere material 9_d970da0e-f47c-46d5-a8ce-52ba04967f20
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 69127115-bright-texture-from-natural-amethyst-violet-crystal-background-for-your-jewelry-designs-_1.jpg
+newmtl Sphere material 14_35463caa-41db-4cae-bdb7-ff328039c0ba
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 69127115-bright-texture-from-natural-amethyst-violet-crystal-background-for-your-jewelry-designs-_1.jpg
+newmtl Sphere material 10_b5da1c9c-4c12-4e3f-a20e-c30d07f07f77
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 4241965.jpg
+newmtl Sphere material 13_05b3cfb0-3703-495a-a3b0-d563815e71b1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 4241965.jpg
+newmtl Sphere material 11_91879fbd-52f5-4c67-afbb-8bc1a79bd104
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd images.jpg
+newmtl Sphere material 12_d28a5db3-701e-4111-86d1-e670b9f46757
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-488382160-170667a.jpg
+newmtl Sphere material 4_02e23e4d-84ac-42e4-b4ed-f46f17a6fe89
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd White_Crystal_01_preview1.jpg
+newmtl Torus material 1_f0e66f2f-153b-49dd-bfd7-6021662437fa
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd woven-bamboo-texture-02-preview.jpg
+newmtl Cylinder material 1_be8aa463-eb3a-41f3-b997-660cf716ecf8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Capsule material 2_f6c6012f-6936-4c24-ae7e-899a31de26c6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Capsule material 3_64dd3b9c-8bd8-45df-9b2d-e08bbcfc9975
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Capsule material 1_86c4bc53-46d4-4600-ba9a-d0675030da1a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Cylinder material 2_39acbb7e-18cd-4c0d-ac4b-d1a72c48f5d4
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Capsule material 4_3f30ead4-f768-4b4c-8e61-651535032da1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Capsule material 5_d6720210-b4b7-4ab0-9cd2-9c5dcbcc0ecb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Capsule material 6_edff0d07-ed12-4143-8698-570ca38290fb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Cylinder material 3_b907f8fd-297d-454d-a727-5ee25926ed34
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Capsule material 7_f6029da7-2c1f-4a0e-bbde-26cda8f450cb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Capsule material 8_d2e9a63e-b3f3-45e5-9f44-5cf7cd40f4e7
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl Capsule material 9_a51cd722-687e-437b-972e-0d2ce7000cf8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 15027568-cactus-texture.jpg
+newmtl CirclePlane material_fd3bb0e5-6617-4070-bb33-c9c2c3d084ee
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd photo-1544914379-806667cd9489.jpg
+newmtl Sphere material_615b6682-809f-4b83-b98e-02e57da83fb4
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Capsule material_60084e22-b6a8-42ae-8bed-0fe1aa0d0808
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd images.jpg
+newmtl Box_37 material_d33caa59-90d5-4db8-9313-44a649338b4d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_39 material_474da8cf-75ce-4537-a894-2c01080e9fd3
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_38 material_7d615260-7762-4c97-87fa-6793e643f247
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_40 material_09dce983-47db-4802-8efd-779cc6e8bb91
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Torus material_086ea0ac-a892-473c-8bc0-e0419e5bdd4d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Torus_1 material_6f72c889-6a0f-4b42-9f96-809247216ceb
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Sphere material 5_d47270d5-41d1-48bb-828e-984d2c0a293d
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Capsule material 10_88da90da-b592-4d8e-a98f-983533f24504
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd images.jpg
+newmtl Box_37 material 1_9459170d-e85a-4d62-adeb-ca41eb13eb7a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_39 material 1_a0f384ec-6401-4f89-847a-d13366abfc0a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_38 material 1_0c0bb5fe-996b-4ddb-a809-c21a5463eb10
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_40 material 1_0df56d17-a772-47ca-bfa4-f5ec224e8714
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Torus material 2_22f37b5c-ced0-44ab-87af-3540ae08a82a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Torus_1 material 1_11dbc91f-e217-4813-a3f8-edc2be66d0d2
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Sphere material 6_030174ce-9c30-4889-9481-3d636d6aeae1
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Capsule material 11_b525388a-7b7e-4db8-8893-8efb6198749d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd images.jpg
+newmtl Box_37 material 2_93f1371e-54d2-4d1c-ada6-abbcf7793377
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_39 material 2_24bfe00b-4976-4284-88fc-5bb4202b7057
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_38 material 2_6f35edde-be73-4505-a9e6-b80067a815c7
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_40 material 2_be20e212-07c7-4248-a079-5663a2098c2f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Torus material 3_61edfe0d-60e3-4267-9bb6-9ba5dfe5e02c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Torus_1 material 2_b74359bc-5dd3-4497-812d-3fe019369fce
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_41 material_69b6c967-366b-4db3-95d6-b253e2fc70d0
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl SquarePlane_2 material_d1258807-8d35-46ae-9af5-ab8d8413903f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd images.jpg
+newmtl Box_22 material_a7b096c4-f78c-4085-8ae3-bf380bd3a82b
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Box_20 material_269e8732-f966-4143-9dc0-580f3f7d142e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Box_21 material_85c99bf7-5177-4960-99cb-38c3b8e22101
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Box_6 material_02609473-951b-4309-a8db-c2d71aed0dc7
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_24 material_de561d34-2911-41e0-ad34-71bcfb4833c5
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_42 material_7e979fbf-1e5c-48cf-8437-d99261201c50
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_45 material_38522749-8ed6-435a-948a-2f24a5b5cdb1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_43 material_209f10d4-1bb1-4550-bf31-4e8501415003
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_46 material_3b5f42af-ea34-4434-801b-8a0cb8ba4aba
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_47 material_94118300-97c4-465e-9378-7065fa388c21
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_48 material_740d7074-85d4-4440-aee2-c25ff03299fa
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_49 material_db0f0da8-026c-47cb-b0d7-e7ba43df3c91
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_50 material_fd58f305-a9da-4590-a39b-b9335b00e961
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_51 material_298f1037-f730-462b-88b6-be5a96bd43bf
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_52 material_312b0229-8090-47ad-883e-162fd4f8c774
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_53 material_5903df3e-fa3f-4bd9-876c-22cf1d1bae23
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_54 material_3f9c2c69-636d-42a5-af0a-db0c435e9f90
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_55 material_373db3c3-1a50-44bb-8e2a-bafd08de3db5
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_56 material_c3c2b360-e13c-4cbf-b7ad-71feeb967c71
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_57 material_755bcb68-b2a7-40b7-a67e-8ed7299382ab
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_58 material_c1061162-0ebe-4fc3-83ac-6c4b0fb3cc77
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_60 material_a2fb54a1-1103-419d-aeef-41b9d8db2647
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_61 material_0cd3ef72-6c00-44de-82dc-ced39e49b001
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_59 material_54d3c493-03eb-442c-9f59-ffaed2ea86c6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pexels-photo-129733_19.jpg
+newmtl Box_44 material_841fa510-f341-4c33-89cd-ea9c6bcf1b6d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_26 material_525673cc-1058-45fc-8b39-1fe45c07a218
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_27 material_d8877abd-0f1b-45c0-bf96-56e10bf09aa8
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_28 material_adcb13ac-7a80-4a2f-93d9-496b625a4a09
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_36 material_529207cf-f058-46e9-94e5-9d07ece0f088
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_29 material_110beeed-60c1-45f0-8d6b-9f2e8076ce5b
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_30 material_c6f908e5-6f76-4245-a575-7a706d415e85
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_31 material_bd0beeec-c465-49ca-a2f8-44d2c61c5bef
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_32 material_50351539-a0dd-4cac-bc17-8204a2e51c3e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_33 material_304e0c8b-713a-4250-ae16-577d34bd5010
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_34 material_67215422-13b7-41ce-a67d-91b81b661a48
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_35 material_938568db-14b4-45b4-b9e8-d26512016a61
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_25 material_0cc9a63a-9e3b-4c06-971b-8f3008f00442
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_7 material_0dd604a1-28cb-4e9f-8290-7268b03f138d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_8 material_0d517f1e-10e1-465e-8db6-1303e2822af1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_9 material_aaa3bb89-cfd8-48bd-b10f-cc21ad5a788e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_10 material_555facf2-1603-46c5-b3dc-a803d38efec7
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_11 material_bd159cc6-9467-428c-be55-5383d1d76be6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a.jpg
+newmtl Box_13 material_dd2efcf3-de00-4af5-b269-cd20a0b341c1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_14 material_1270db42-8018-483d-9ba6-c24d7f0f0602
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_15 material_12c6224c-596e-4d10-a694-d1bc53e0a426
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_16 material_7c8f58ca-4687-412d-8c06-1341f032989f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_17 material_0842e67d-1426-46ca-a22a-9a76e5f9eb56
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_18 material_716a2b93-f5c9-4edc-9f90-158eeac155c1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_19 material_f8c66928-fdd4-48e0-aefc-e8412671e36e
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_23 material_2db82aad-0629-450c-bb70-1270e7c1b07f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Box_12 material_70e2ee74-4851-4e5d-b92f-7218eb7525d6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a.jpg
+newmtl Tube material_9a1459cd-eaae-4121-89ce-9a43ed895c02
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pngtree-bamboo-texture-texture-picture-image_589020.jpg
+newmtl SquarePlane material_b04e0949-a733-418d-8b77-3d50cc6c12be
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl SquarePlane_1 material_f0036422-daca-4553-b2e1-e6bcaa7090a1
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Cylinder material_43de5d23-37c6-4d0a-a4ba-dd63416ababf
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pngtree-bamboo-texture-texture-picture-image_589020.jpg
+newmtl Cylinder_1 material_197eff45-6a71-4ea2-9277-327c460bde51
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pngtree-bamboo-texture-texture-picture-image_589020.jpg
+newmtl Cylinder_2 material_131c4d0d-b1b7-415b-b707-1b001c211257
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pngtree-bamboo-texture-texture-picture-image_589020.jpg
+newmtl Cylinder_3 material_23258121-7a44-4843-af66-12d15a8e8b7c
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd pngtree-bamboo-texture-texture-picture-image_589020.jpg
+newmtl Cylinder_4 material_ad736d4f-a5d0-4f32-b296-9371f963c2b8
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Box_5_-_baked material_116a24d7-7fc1-481a-9e36-1991625aee46
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 46625391-beige-grunge-concrete-wall-texture-background-create-from-natural-cement-material-in-retro-pattern-f.jpg
+newmtl Box_1 material_ae548e00-8e15-4de2-bc28-7e6d52811ac6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Box_2 material_2977ae91-8c2a-4ad6-a17e-f57e89aa3f9d
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Box_3 material_f9c9bed5-d53e-479b-ae0d-374f65040bde
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 201660.jpg
+newmtl Box_4 material_bdd71a52-fbc0-49e0-b695-f0259e2a2e22
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd _201660.jpg
+newmtl Box material_1b425622-2451-49d1-963a-0d0e6808c2f6
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1008961038-1024x1024.jpg
+newmtl Buffer_Layer material_f668c2e8-f975-4f54-a2e6-31ad27bbd3e5
+Kd 0.820 0.416 0.345
+d 1.000
+newmtl Buffer_Layer material 1_58018416-275d-443a-95de-e60d7b586742
+Kd 0.741 0.690 0.400
+d 1.000
+newmtl Buffer_Layer material 2_904e02f7-da85-47e1-be84-cbb39243c79b
+Kd 0.722 0.459 0.310
+d 1.000
+newmtl Buffer_Layer material 3_a9515828-4397-4daf-bb99-5fda199eeb16
+Kd 0.322 0.580 0.255
+d 1.000
+newmtl Buffer_Layer material 4_18b6cbd5-987d-4455-8f19-3443038c645a
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd istockphoto-1083302826-170667a_6.jpg
+newmtl Buffer_Layer material 5_892c07cc-f051-4762-a31d-294e90c45de1
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Buffer_Layer material 6_3dd1741c-feb1-49c2-a1ad-e1663439d76a
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Buffer_Layer material 7_7998bcf0-7820-4eeb-993e-35f8f3a90001
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Buffer_Layer material 8_32c97ec6-6803-49a3-a2df-045a6923bfe0
+Kd 0.859 0.404 0.369
+d 1.000
+newmtl Buffer_Layer material 9_70d8ff0f-afa3-42dc-b63f-9dfef8db2d5b
+Kd 0.639 0.569 0.373
+d 1.000
+newmtl Buffer_Layer material 10_d2eabcf4-12b7-4945-b72f-9bf6a0ab7548
+Kd 0.306 0.580 0.239
+d 1.000
+newmtl Buffer_Layer material 11_aa580bdc-c026-412c-a5b9-f5de19b36678
+Kd 0.122 0.502 0.216
+d 1.000
